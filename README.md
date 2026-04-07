@@ -1,7 +1,7 @@
 
 # Updated RPG Character Manager (Data)
 ***
-    An enhanced version of the existing RPG Character Manager by incorporating data visualization, statistical analysis, and random data generation using Python libraries. This project will focus on reading and implementing features from library documentation while maintaining object-oriented programming principles and expanding on the original character management system.
+An enhanced version of the existing RPG Character Manager by incorporating data visualization, statistical analysis, and random data generation using Python libraries. This project will focus on reading and implementing features from library documentation while maintaining object-oriented programming principles and expanding on the original character management system.
 
 ## How to use
 ***
